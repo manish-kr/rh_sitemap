@@ -1,9 +1,9 @@
-#Sitemap Generator
+# Sitemap Generator
 
 This scrapy module crawls all available sites on ```https://redhat.com``` or any given website and it extracts all URLs. Using the URLs a sitemap is generated.
 according to the protocol described at http://www.sitemaps.org/protocol.html.
 
-##Installation
+## Installation
 
 You can use pip to install the required dependencies. The requirements.txt file contains list of all dependencies.
 
@@ -16,7 +16,7 @@ For example on Ubuntu 16.04 install the following packages.
 
     $ sudo apt install gcc libssl-dev python-dev python-virtualenv
 
-##Usage
+## Usage
 
 To generate a new sitemap file simply run the spider using the
 following command.The result will be available in the file ```sitemap_redhat.openstack.org.xml```.
