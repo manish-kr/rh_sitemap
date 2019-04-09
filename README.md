@@ -19,7 +19,7 @@ For example on Ubuntu 16.04 install the following packages.
 ## Usage
 
 To generate a new sitemap file simply run the spider using the
-following command.The result will be available in the file ```sitemap_redhat.openstack.org.xml```.
+following command.The result will be available in the file ```sitemap_redhat.com.xml```.
 
     $ scrapy crawl rhsitemap
 
