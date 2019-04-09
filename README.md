@@ -7,7 +7,7 @@ according to the protocol described at http://www.sitemaps.org/protocol.html.
 
 You can use pip to install the required dependencies. The requirements.txt file contains list of all dependencies.
 
-```NOTE: On a windows machines you will need to install an additional  package pywin32, which is also included in requirements.txt. It won't be needed while running this script on windows.```
+```NOTE: On a windows machines you will need to install an additional  package pywin32. It won't be needed while running this script on linux.```
 
     $ pip install -r requirements.txt
 
